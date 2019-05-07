@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Full Stack Adventures Table" language="en" table="x_snc_full_stack_a_full_stack_adventures_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Full Stack Adventures Table</label>
+            <language>en</language>
+            <name>x_snc_full_stack_a_full_stack_adventures_table</name>
+            <plural>Full Stack Adventures Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-07 20:51:50</sys_created_on>
+            <sys_id>9b5cc59d991533007f4402b6e4e282c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Full Stack Adventures Table</sys_name>
+            <sys_package display_value="Full Stack Adventures" source="x_snc_full_stack_a">435c459d991533007f4402b6e4e28287</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Full Stack Adventures">435c459d991533007f4402b6e4e28287</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_full_stack_a_full_stack_adventures_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-07 20:51:50</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
